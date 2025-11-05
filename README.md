@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email: your-email@example.com
+For support, email: danielagboola52@gmail.com
 
 ---
 
